@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        Estaremos en línea muy pronto... Esperanos!
+        Estaremos en línea muy pronto... Espéranos!
         </p>
       </header>
     </div>
